@@ -1,0 +1,35 @@
+.btn{
+    font-weight: bold;
+font-size: 16px;
+color: #ffffff;
+padding:  12px;
+background-color: #1D4ED8;
+border: none;
+border-radius: 12px;
+}
+
+nav li{
+   list-style: none;
+    margin-right: 20px;
+    font-size: 18px;
+   
+}
+
+nav li a{
+    text-decoration: none;
+    color: #575757;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+nav ul{
+    display: flex;
+    justify-content: around;
+    align-items: center;
+   gap: 24px;
+}
