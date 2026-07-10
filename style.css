@@ -47,6 +47,8 @@ h1{
     background-color: #1D4ED8;
     cursor: pointer;
     padding: 12px 12px;
+    width: 282.66px;
+    height: 72px;
     font-size: 24px;
     font-weight: bold;
     color: #ffffff;
@@ -129,4 +131,140 @@ h6{
    justify-content: center;
    align-items: center;
     padding: 60px 80px;
+}
+
+h3{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+
+#price-info{
+    font-size: 16px;
+    color: #575757;
+}
+
+.text{
+   text-align: center;
+  
+}
+#text-type{
+    font-size: 13px;
+    color: #888888;
+    font-weight: 600;
+}
+#price-1{
+    font-size: 44px;
+    font-weight: bold;
+    
+}
+
+#per{
+    font-size: 13px;
+    color: #888888;
+    
+} 
+
+.price-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E5E7EB;
+
+}
+
+div .btn-3{
+    background-color: #ffffff;
+    cursor: pointer;
+    padding: 12px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #1D4ED8;
+    border: none;
+    border-radius: 8px ;
+    gap: 12px;
+    margin-top: 20px;
+    outline: 2px solid #1D4ED8;
+   width: 304.66px;
+height: 45px;
+
+}
+
+
+div .btn-4{
+    background-color: #1D4ED8;
+    cursor: pointer;
+    padding: 12px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px ;
+    gap: 12px;
+    margin-top: 20px;
+   width: 304.66px;
+height: 45px;
+
+}
+
+
+div .btn-5{
+    background-color: #ffffff;
+    cursor: pointer;
+    padding: 12px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #0D1B2A;
+    border: none;
+    border-radius: 8px ;
+    gap: 12px;
+    margin-top: 20px;
+    outline: 2px solid #0D1B2A;
+   width: 304.66px;
+height: 45px;
+
+}
+
+
+
+.text-white{
+    color: #ffffff;
+}
+
+.black-card{
+    background-color: #0D1B2A;
+    
+}
+
+.btn-center{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+div ul li::marker{
+    
+   color: #1D4ED8;
+    
+}
+
+.price-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    padding:  40px;
+}
+
+#price-card-1{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.pro{
+    color: #93C5FD;
 }
